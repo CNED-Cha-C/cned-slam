@@ -1,3 +1,3 @@
 # Porjet source.zip
-fichiers .designer.cs = vue \n
+fichiers .designer.cs = vue 
 fichiers .cs = controleur
