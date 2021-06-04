@@ -1,1 +1,1 @@
-# cned-slam
+# Dépendences : MySql.Data.MySqlClient
