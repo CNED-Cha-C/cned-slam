@@ -1,1 +1,3 @@
-# Dépendences : MySql.Data.MySqlClient
+# Porjet source.zip
+fichiers .designer.cs = vue
+fichier .cs = controleur
